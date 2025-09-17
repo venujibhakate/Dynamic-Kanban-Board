@@ -35,3 +35,5 @@ This is a simple **Dynamic Kanban Board** web application where users can create
    ```bash
    cd dynamic-kanban-board
 3. Open index.html in your browser to view the app.
+
+Live project link - https://quiet-cobbler-885c84.netlify.app/
